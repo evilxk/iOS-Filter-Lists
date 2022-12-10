@@ -1,0 +1,36 @@
+||analyticsengine.s3.amazonaws.com^
+||amazonaax.com^
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads-dev.pinterest.com^
+||widgets.pinterest.com^
+||samsung-com.112.2o7.net^
+||cdn.paddle.com^
+||paddle.com^
+||google-analytics.com^
+||top10vpn.com^
+||syndication.twitter.com^
+||2mdn.net^
+||doubleclick.net^
+||serving-sys.com^
+||sizmek.com^
+||amazon-adsystem.com^
+!
+! Rules for https://d3ward.github.io/toolz/adblock
+! *Amazon
+||https://analyticsengine.s3.amazonaws.com^
+||https://advice-ads.s3.amazonaws.com^
+||https://affiliationjs.s3.amazonaws.com^
+||https://advertising-api-eu.amazon.com^
+||https://amazonaax.com^
+! *Pinterest
+||https://widgets.pinterest.com^
+!
