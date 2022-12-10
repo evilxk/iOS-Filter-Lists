@@ -1,0 +1,13 @@
+||inner-active.mobi^
+||ipify.org^
+||applovin.com^
+||unity3dusercontent.com^
+||unity3d.com^
+||doubleclick.net^
+||appsflyer.com^
+||app.ssp.yahoo.com^
+||api.ads.yahoo.com^
+||cdn.ssp.yahoo.com^
+||yimg.com^
+||web.facebook.com^
+||safedk.com^
